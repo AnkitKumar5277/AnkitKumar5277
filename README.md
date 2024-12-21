@@ -1,2 +1,1 @@
-ANKIT KUMAR :
-Data Analyst, AOSP Modder, Montage Editor, Gamer
+Data Analyst, Data Science, Python Programming, AOSP Modder, Gamer, ...
