@@ -1,2 +1,3 @@
 Data Analyst, Data Science, Python Programming, AOSP Modder, Gamer, ...
-![Photoleap_19_04_2024_11_06_08_BZ1nN](https://github.com/user-attachments/assets/6d03b3a3-e4ce-408a-921a-8e87ab4e3f57)
+![excel-logo-0](https://github.com/user-attachments/assets/700d9d63-b0ae-46cc-94b4-1aed2802adf4)
+
