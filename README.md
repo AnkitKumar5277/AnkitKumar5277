@@ -9,7 +9,7 @@ https://sites.google.com/view/ankitkumar9389715277?usp=sharing
 
 Python
 Api Testing, Postman
-Pytest, requests, 
+Pytest, requests, allure, 
 Selenium
 Jenkins, Docker
 Git / Github
