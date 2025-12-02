@@ -5,39 +5,31 @@
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech Stack  
 
-### 🐍 Programming Languages
-- Python  
-- SQL  
-- Java  
+**Languages:**  
+🟢 Python &nbsp;&nbsp;|&nbsp;&nbsp; 🟣 SQL &nbsp;&nbsp;|&nbsp;&nbsp; 🟠 Java  
 
-### 🧪 API Testing
-- Pytest  
-- Requests  
-- Allure Reports  
-- Postman  
+**API Testing:**  
+🧪 Pytest &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Requests &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Allure &nbsp;&nbsp;|&nbsp;&nbsp; 🧰 Postman  
 
-### 🌐 Web Automation
-- Selenium WebDriver  
+**Automation:**  
+🕸️ Selenium WebDriver  
 
-### ⚙️ CI/CD & DevOps
-- Jenkins  
-- Docker  
+**CI/CD & DevOps:**  
+⚙️ Jenkins &nbsp;&nbsp;|&nbsp;&nbsp; 🐳 Docker  
 
-### 🧰 Tools & Platforms
-- Jira  
-- Git / GitHub  
+**Project Management & Version Control:**  
+📋 Jira &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Git / GitHub  
 
-### 🧠 IDEs
-- PyCharm  
-- VS Code  
+**IDEs:**  
+💡 PyCharm &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 VS Code  
 
 ---
 
 ## 📈 About Me
-I’m an **Automation Engineer** passionate about building reliable test automation frameworks, integrating CI/CD pipelines, and ensuring software quality through efficient testing practices.  
-I enjoy learning new technologies and contributing to projects that make testing smarter and faster.
+I’m an **Automation Engineer** passionate about creating robust test frameworks, integrating CI/CD pipelines, and improving product quality through efficient automation.  
+I love learning, problem-solving, and contributing to impactful projects.
 
 ---
 
