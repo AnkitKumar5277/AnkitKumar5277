@@ -1,5 +1,5 @@
 # Hi, I'm Ankit Kumar  
-**Automation Engineer | Python | Selenium | API Testing**
+**Automation Engineer / Quality Assurance / Software Tester**
 
 **Portfolio:** [ankitkumar9389715277](https://sites.google.com/view/ankitkumar9389715277?usp=sharing)
 
@@ -9,19 +9,14 @@
 
 **Languages:**  
 Python | SQL | Java  
-
 **API Testing:**  
 Pytest | Requests | Allure | Postman  
-
 **Automation:**  
-Selenium WebDriver  
-
+Selenium | WebDriver  
 **CI/CD & DevOps:**  
-Jenkins | Docker  
-
+Jenkins | Docker   
 **Project Management & Version Control:**  
-Jira | Git | GitHub  
-
+Jira | Git | GitHub
 **IDEs:**  
 PyCharm | VS Code  
 
