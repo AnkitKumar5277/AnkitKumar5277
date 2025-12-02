@@ -12,13 +12,15 @@ Python | SQL | Java
 **API Testing:**  
 Pytest | Requests | Allure | Postman  
 **Automation:**  
-Selenium | WebDriver  
+Selenium | WebDriver | API Automation | Web Automation 
 **CI/CD & DevOps:**  
 Jenkins | Docker   
 **Project Management & Version Control:**  
 Jira | Git | GitHub
-**IDEs:**  
-PyCharm | VS Code  
+**Platforms & Tools**  
+PyCharm | VS Code | MySQL | Windows11 | Linux | Android 16
+**AI**
+Generative AI | Google AI Pro | ChatGPT GO 
 
 ---
 
