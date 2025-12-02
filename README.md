@@ -1,43 +1,43 @@
-# 👋 Hi, I'm Ankit Kumar  
+# Hi, I'm Ankit Kumar  
 **Automation Engineer | Python | Selenium | API Testing**
 
-🌐 **Portfolio:** [ankitkumar9389715277](https://sites.google.com/view/ankitkumar9389715277?usp=sharing)  
+**Portfolio:** [ankitkumar9389715277](https://sites.google.com/view/ankitkumar9389715277?usp=sharing)
 
 ---
 
 ## 💻 Tech Stack  
 
 **Languages:**  
-🟢 Python &nbsp;&nbsp;|&nbsp;&nbsp; 🟣 SQL &nbsp;&nbsp;|&nbsp;&nbsp; 🟠 Java  
+Python | SQL | Java  
 
 **API Testing:**  
-🧪 Pytest &nbsp;&nbsp;|&nbsp;&nbsp; 🌐 Requests &nbsp;&nbsp;|&nbsp;&nbsp; 📊 Allure &nbsp;&nbsp;|&nbsp;&nbsp; 🧰 Postman  
+Pytest | Requests | Allure | Postman  
 
 **Automation:**  
-🕸️ Selenium WebDriver  
+Selenium WebDriver  
 
 **CI/CD & DevOps:**  
-⚙️ Jenkins &nbsp;&nbsp;|&nbsp;&nbsp; 🐳 Docker  
+Jenkins | Docker  
 
 **Project Management & Version Control:**  
-📋 Jira &nbsp;&nbsp;|&nbsp;&nbsp; 🧠 Git / GitHub  
+Jira | Git | GitHub  
 
 **IDEs:**  
-💡 PyCharm &nbsp;&nbsp;|&nbsp;&nbsp; 🧩 VS Code  
+PyCharm | VS Code  
 
 ---
 
-## 📈 About Me
-I’m an **Automation Engineer** passionate about creating robust test frameworks, integrating CI/CD pipelines, and improving product quality through efficient automation.  
-I love learning, problem-solving, and contributing to impactful projects.
+## About Me
+I’m an **Automation Engineer** passionate about creating reliable test automation frameworks, integrating CI/CD pipelines, and ensuring software quality through efficient testing practices.  
+I enjoy learning new technologies and contributing to projects that make testing smarter and faster.
 
 ---
 
-## 📫 Connect With Me
-📧 **Email:** ankitx66@gmail.com  
-💼 **LinkedIn:** [LinkedIn Profile](#) *(Add your LinkedIn URL here)*  
-🐙 **GitHub:** [GitHub Profile](#) *(Add your GitHub URL here)*  
+## Connect With Me
+**Email:** ankitx66@gmail.com  
+**LinkedIn:** [LinkedIn Profile](#) *(Add your LinkedIn URL here)*  
+**GitHub:** [GitHub Profile](#) *(Add your GitHub URL here)*  
 
 ---
 
-⭐ **"Automate. Optimize. Deliver."**
+**"Automate. Optimize. Deliver."**
