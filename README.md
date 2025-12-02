@@ -28,8 +28,4 @@ I enjoy learning new technologies and contributing to projects that make testing
 
 ---
 
-## Connect With Me
-
----
-
 **"Automate. Optimize. Deliver."**
