@@ -10,7 +10,7 @@
 **Languages:**  
 Python | SQL | Java  
 **API Testing:**  
-Pytest | Requests | Allure | Postman  
+Pytest | Requests | Allure | Fixture | Postman  
 **Automation:**  
 Selenium | WebDriver | API Automation | Web Automation 
 **CI/CD & DevOps:**  
