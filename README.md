@@ -30,8 +30,8 @@ I enjoy learning new technologies and contributing to projects that make testing
 
 ## Connect With Me
 **Email:** ankitx66@gmail.com  
-**LinkedIn:** [LinkedIn Profile](#) *(Add your LinkedIn URL here)*  
-**GitHub:** [GitHub Profile](#) *(Add your GitHub URL here)*  
+**LinkedIn:** [LinkedIn Profile](#)   
+**GitHub:** [GitHub Profile](#)   
 
 ---
 
