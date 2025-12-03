@@ -9,18 +9,24 @@
 
 **Languages:**  
 Python | SQL | Java  
+
 **API Testing:**  
 Pytest | Requests | Allure | Fixture | Postman  
+
 **Automation:**  
-Selenium | WebDriver | API Automation | Web Automation 
+Selenium | WebDriver | API Automation | Web Automation  
+
 **CI/CD & DevOps:**  
-Jenkins | Docker   
+Jenkins | Docker  
+
 **Project Management & Version Control:**  
-Jira | Git | GitHub
-**Platforms & Tools**  
-PyCharm | VS Code | MySQL | Windows11 | Linux | Android 16
-*AI*
-Generative AI | Google AI Pro | ChatGPT GO 
+Jira | Git | GitHub  
+
+**Platforms & Tools:**  
+PyCharm | VS Code | MySQL | Windows 11 | Linux | Android 16  
+
+**AI:**  
+Generative AI | Google AI Pro | ChatGPT GO  
 
 ---
 
