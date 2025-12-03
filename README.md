@@ -5,7 +5,7 @@
 
 ---
 
-## 💻 Tech Stack  
+## 💻 Technical Skills :
 
 **Languages:**  
 Python | SQL | Java  
