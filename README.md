@@ -6,22 +6,15 @@
 ---
 
 ## 💻 Technical Skills :
-
-**Languages:**  
-Python | SQL
-**API Testing:**  
-Pytest | Requests | Allure | Fixture | Postman  
-**Automation:**  
-Selenium | WebDriver | API Automation | Web Automation  
-**CI/CD & DevOps:**  
-Jenkins | Docker  
-**Project Management & Version Control:**  
-Jira | Git | GitHub  
-**Platforms & Tools:**  
-PyCharm | VS Code | MySQL | Windows 11 | Linux | Android 16  
-**AI:**  
-Generative AI | Google AI Pro | ChatGPT GO  
+** Programming**  
+**API Testing**  
+**Automation**  
+**Manual** 
+**CI/CD**
+**Data**
+**Android Testing** 
 
 ---
+
 
 **"Automate. Optimize. Deliver."**
