@@ -6,7 +6,7 @@
 ---
 
 ## 💻 Technical Skills :
-**Programming**|**API Testing**|**Automation**|**Manual**|**CI/CD**|**Data**|**Android Testing** 
+**Programming** | **API Testing** | **Automation** | **Manual** | **CI/CD** | **Data** | **Android Testing** 
 
 ---
 
