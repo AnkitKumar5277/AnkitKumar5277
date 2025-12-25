@@ -8,7 +8,7 @@
 ## 💻 Technical Skills :
 
 **Languages:**  
-Python | SQL | Java  
+Python | SQL
 **API Testing:**  
 Pytest | Requests | Allure | Fixture | Postman  
 **Automation:**  
