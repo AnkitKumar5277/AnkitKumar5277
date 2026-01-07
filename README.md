@@ -6,7 +6,7 @@
 ---
 
 ## 💻 Tech :
-**Programming** | **API** | **Automation** | **Manual** | **CI/CD** | **Data** | **Android** 
+**Programming** | **API** | **Automation** | **Manual** | **CI/CD** | **Android** 
 
 ---
 
