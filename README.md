@@ -6,8 +6,7 @@
 ---
 
 ## 💻 Tech :
-**Programming** | **API** | **Automation** | **Manual** | **CI/CD** | **Android** 
-
+SDET | QA | TESTING | AUTOMATION | VIDEO EDITING | ANDROID
 ---
 
 **"Automate. Optimize. Deliver."**
