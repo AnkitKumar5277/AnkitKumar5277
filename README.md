@@ -6,5 +6,5 @@
 
 ---
 ## 💻 Tech :
-SDET | QA | TESTING | AUTOMATION | AOSP
+- SDET | QA | TESTING | AUTOMATION | AOSP
 ---
