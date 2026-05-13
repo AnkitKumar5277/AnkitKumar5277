@@ -4,6 +4,5 @@
 **Email:** ankit.kumar.tech@outlook.com  
 **Linkedin:** [LinkedIn Profile](#)  
 
-## 💻 Stack :  
-SDET | QA | TESTING | AUTOMATION | AOSP
+#SDET | #QA | #TESTING | #AUTOMATION | #AOSP
 
